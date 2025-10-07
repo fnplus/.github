@@ -1,11 +1,11 @@
-# fnplus (fn+geeks) 🧠
+# fnplus (fn+geeks)
 
 Show your journey. Build in public. Grow your skills.  
 _fnplus_ is a community-driven open source org where learners and contributors build visible work, together.
 
 ---
 
-## 🚀 What is fnplus?
+## What is fnplus?
 
 fnplus (aka “fn+geeks”) exists to:
 
@@ -18,7 +18,7 @@ We are global + inclusive.
 
 ---
 
-## 📌 Pinned Repositories & What They Signal
+## Pinned Repositories & What They Signal
 
 These are the repos currently pinned in the org, showing what we give priority to:  
 — join-fnplus-with-a-pr :contentReference[oaicite:0]{index=0}  
@@ -36,7 +36,7 @@ These give newcomers a clear path:
 
 ---
 
-## 📚 Naming & Structural Conventions
+## Naming & Structural Conventions
 
 Here are naming patterns and repo-categories I observed:
 
@@ -53,7 +53,7 @@ These help new contributors intuitively pick where to go (guides, contributions,
 
 ---
 
-## 🎯 How to Get Started & Contribute
+## How to Get Started & Contribute
 
 Here’s a smooth path for new folks:
 
@@ -69,7 +69,7 @@ Your contributions don’t just add code — they help refine how newcomers see 
 
 ---
 
-## 👤 About Abhishek Uniyal
+## About Abhishek Uniyal
 
 I’m **Abhishek Uniyal** — software engineer, open source advocate, and community steward. At fnplus:
 
@@ -81,7 +81,7 @@ You can reach me via GitHub Discussions, open issues, or direct ping in repos.
 
 ---
 
-## 🧠 Values & Culture
+## Values & Culture
 
 We operate by:
 
@@ -93,7 +93,7 @@ We operate by:
 
 ---
 
-## 📜 Code of Conduct & Licensing
+## Code of Conduct & Licensing
 
 We maintain a **Code of Conduct** (see `CODE_OF_CONDUCT.md`) to keep our community safe and respectful.  
 Most repos are under **MIT License**, unless otherwise specified.
